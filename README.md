@@ -2,7 +2,7 @@
 
 Team:
 
--  Sachin Manimekalai Balakrishnan netid:  smanim2 UIN:  678578693 tasks 1-4
+-  Sachin Manimekalai Balakrishnan netid:  smanim2 UIN:  678578693 tasks 4 & 7
 -  Oscar Palomino                  netid:  opalom2 UIN:  675871066 tasks 4-7
 -  Piotr Cieslik                   netid:  pciesl2 UIN:  668866866 tasks 5,6
 
